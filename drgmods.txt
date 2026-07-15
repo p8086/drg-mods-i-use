@@ -16,3 +16,4 @@ https://mod.io/g/drg/m/speedster#description
 https://mod.io/g/drg/m/removed-terrain-destruction-particles#description
 https://mod.io/g/drg/m/remove-all-particles#description
 https://mod.io/g/drg/m/invisible-hands#description
+https://mod.io/g/drg/m/customizable#description
