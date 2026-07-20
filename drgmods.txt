@@ -16,5 +16,4 @@ https://mod.io/g/drg/m/removed-terrain-destruction-particles#description
 https://mod.io/g/drg/m/remove-all-particles#description
 https://mod.io/g/drg/m/invisible-hands#description
 https://mod.io/g/drg/m/customizable#description
-https://mod.io/g/drg/m/alternate-player-list-ui#description
 https://mod.io/g/drg/m/modular-player-ui#2788310
