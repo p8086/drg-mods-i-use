@@ -16,6 +16,5 @@ https://mod.io/g/drg/m/removed-terrain-destruction-particles#description
 https://mod.io/g/drg/m/remove-all-particles#description
 https://mod.io/g/drg/m/invisible-hands#description
 https://mod.io/g/drg/m/customizable#description
-https://mod.io/g/drg/m/modular-player-ui#2788310
 https://mod.io/g/drg/m/player-nameplates#description
 https://mod.io/g/drg/m/helldivers-2-death-screen#description
