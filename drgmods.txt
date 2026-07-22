@@ -5,7 +5,6 @@ https://mod.io/g/drg/m/better-explosion-range-indicator#description
 https://mod.io/g/drg/m/live-mission-stat-tracker#description
 https://mod.io/g/drg/m/modified-gunner-shield-effect#description
 https://mod.io/g/drg/m/build-inspector#description
-https://mod.io/g/drg/m/rancors-rig-hud#description
 https://mod.io/g/drg/m/more-fov#description
 https://mod.io/g/drg/m/mod-hub#description
 https://mod.io/g/drg/m/drglib#description
