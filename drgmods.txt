@@ -9,7 +9,6 @@ https://mod.io/g/drg/m/more-fov#description
 https://mod.io/g/drg/m/mod-hub#description
 https://mod.io/g/drg/m/drglib#description
 https://mod.io/g/drg/m/motd-stattrack#description
-https://mod.io/g/drg/m/custom-difficulty#description
 https://mod.io/g/drg/m/speedster#description
 https://mod.io/g/drg/m/removed-terrain-destruction-particles#description
 https://mod.io/g/drg/m/remove-all-particles#description
@@ -19,4 +18,4 @@ https://mod.io/g/drg/m/player-nameplates#description
 https://mod.io/g/drg/m/helldivers-2-death-screen#description
 https://mod.io/g/drg/m/ammo-indicators#description
 https://mod.io/g/drg/m/rancors-rig-hud#description
-
+https://mod.io/g/drg/m/xmas-zips#1606854
