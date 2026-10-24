@@ -22,3 +22,4 @@ https://mod.io/g/drg/m/xmas-zips#1606854
 https://mod.io/g/drg/m/customizable-weapon-fov#description
 https://mod.io/g/drg/m/pettable-dwarfs#discussion
 https://mod.io/g/drg/m/barrage-infector-range-indicator#description
+https://mod.io/g/drg/m/player-status#description
