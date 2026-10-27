@@ -2,7 +2,6 @@ https://mod.io/g/drg/m/weapon-heat-crosshair#description
 https://mod.io/g/drg/m/custom-mission-selector#description
 https://mod.io/g/drg/m/brighter-objects#description
 https://mod.io/g/drg/m/better-explosion-range-indicator#description
-https://mod.io/g/drg/m/combined-resources#description
 https://mod.io/g/drg/m/modified-gunner-shield-effect#description
 https://mod.io/g/drg/m/build-inspector#description
 https://mod.io/g/drg/m/more-fov#description
