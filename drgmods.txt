@@ -21,4 +21,4 @@ https://mod.io/g/drg/m/customizable-weapon-fov#description
 https://mod.io/g/drg/m/pettable-dwarfs#discussion
 https://mod.io/g/drg/m/barrage-infector-range-indicator#description
 https://mod.io/g/drg/m/ammo-indicators#description
-https://mod.io/g/drg/m/squad-vitals-resources-hud#description
+
